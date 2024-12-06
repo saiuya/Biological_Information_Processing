@@ -2,3 +2,4 @@
 # pixi environments
 *.egg-info
 .vscode
+.DS_Store
